@@ -1,1 +1,1 @@
-# Practice_Problem_Day2
+# Pratice_Problem2
