@@ -19,6 +19,7 @@ public class VowelOrConsonant {
 				System.out.println(ch + " is consonant");
 		}
 	}
+	
 }
 
 

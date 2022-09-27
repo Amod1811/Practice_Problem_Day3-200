@@ -19,5 +19,4 @@ public class ReverseNumber {
 		 int rev =reverseNum(num) ;
 		 System.out.println("Reverse number is:" + rev);
 	}
-
 }

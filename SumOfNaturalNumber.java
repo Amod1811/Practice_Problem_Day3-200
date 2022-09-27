@@ -15,5 +15,4 @@ public class SumOfNaturalNumber {
 		}
 		 System.out.println("Sum of Natural Number is"+" " + sum);
 	}
-
 }

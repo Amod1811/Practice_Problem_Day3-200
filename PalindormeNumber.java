@@ -23,7 +23,5 @@ public class PalindormeNumber {
 		else {
 			System.out.println(num + "number is not Pallindrome");//number value and reverse value not same 
 		} 
-
 	}
-
 }
