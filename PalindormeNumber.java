@@ -1,9 +1,7 @@
 package bl.com.day2program;
-
 import java.util.Scanner;
 
 public class PalindormeNumber {
-
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the number :");
@@ -18,6 +16,7 @@ public class PalindormeNumber {
 			temp = temp/10;// devide temp value with ten 
 		}
 		// check the number value and reverse value are equal or not
+		
 		if (num==rev) {
 			System.out.println(num + "number is Pallindrome");//number value and reverse value are same 
 		}

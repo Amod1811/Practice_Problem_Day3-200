@@ -1,9 +1,7 @@
 package bl.com.day2program;
-
 import java.util.Scanner;
 
 public class ReverseNumber {
-	
 	public static int reverseNum(int num) {
 		int rem ;
 		int rev = 0;

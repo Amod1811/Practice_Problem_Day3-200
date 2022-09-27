@@ -1,5 +1,4 @@
 package bl.com.day2program;
-
 import java.util.Scanner;
 
 public class MonthName {

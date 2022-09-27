@@ -1,9 +1,7 @@
 package bl.com.day2program;
-
 import java.util.Scanner;
 
 public class DigitToWord {
-
 	public static void main(String[] args) {
 		String[]nos = {"Zero","One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine"};
 		Scanner sc = new Scanner(System.in);
